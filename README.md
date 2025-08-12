@@ -78,10 +78,12 @@ I love you so much cutu
     <h1>My Dearest Shagaf 💖</h1>
     <p>
         I am truly sorry, my love.  
-        Not just with words, but with my heart.  
-        You are the melody to my silence, the warmth in my cold,  
-        and I can't bear the thought of losing your smile.  
-        Forgive me, and let me love you even more every day. 💕
+        Not just with words, but with my heart
+        poz ho skae to mujhe maaf kar dena cutu 
+        mai genuinely sorry mangna chahta hun aapse
+        Shagaf aap merko bhot jyada pasand ho aur mai         hamesha se hi bhot jyada pagal deewana hun aapke piche
+        Please meri cutu,meri kuchu puchu,meri princess,meei duniya,meri jaan ho sake to maaf kar dena 
+        i love you shaggi❤️💖💞💝💘💕❣️❤️‍🩹💓💕
     </p>
     <input type="password" id="password2" placeholder="Enter Password">
     <button onclick="goBack()">Back to Love 💞</button>
