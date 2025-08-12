@@ -79,7 +79,7 @@ I love you so much cutu
     <p>
         I am truly sorry, my love.  
         Not just with words, but with my heart
-        poz ho skae to mujhe maaf kar dena cutu 
+        plz ho sake to mujhe maaf kar dena cutu 
         mai genuinely sorry mangna chahta hun aapse
         Shagaf aap merko bhot jyada pasand ho aur mai         hamesha se hi bhot jyada pagal deewana hun aapke piche
         Please meri cutu,meri kuchu puchu,meri princess,meei duniya,meri jaan ho sake to maaf kar dena 
