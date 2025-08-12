@@ -102,7 +102,7 @@ function goInside() {
 
 function goBack() {
     let pass = document.getElementById("password2").value.trim().toLowerCase();
-    if (pass === "i love you fahad") {
+    if (pass === "iloveyoufahad") {
         document.getElementById("page2").style.display = "none";
         document.getElementById("page1").style.display = "block";
     } else {
